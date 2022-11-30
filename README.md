@@ -8,8 +8,8 @@ The application front end has already created. I got to create the backend and c
 
 ## Website
 
-Deployed app here:
-Github Account:
+- Deployed app here: https://francisco-note-taker.herokuapp.com/
+- Github Account: MXCAZ
 
 ## Screenshots
 
